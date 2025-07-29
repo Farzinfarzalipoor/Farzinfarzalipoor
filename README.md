@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farzinfarzalipoor
-- I’m interested in Java developing and analyzing ERP and BPMS systems.
-- I’m currently learning Java and front-end technologies. 
+- I’m interested in python developing and data analysis.
+- I’m currently learning python and AI engineering. 
 - How to reach me: farzinfarzalipoor@gmail.com
 
 <!---
